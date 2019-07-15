@@ -8,7 +8,7 @@
 
 # CRM <a name="aboutCRM"></a>
 
-A CRM system in Google App Script developed by Effective Altruism Norway.
+This is a CRM system in Google App Script developed by Effective Altruism Norway.
 The goal of this CRM system is to streamline 1-1 meetings.
 
 1. Uses spreadsheets and documents in Google Suite
